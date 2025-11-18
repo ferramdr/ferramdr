@@ -1,7 +1,7 @@
 # Fernando Ramírez
 _Software Engineering Student | Aspiring Data Analyst & Future Data Scientist_
 
-I’m a 5th-semester Software Engineering student and a hybrid professional: I combine a solid software engineering foundation (Clean Code, Data Structures & Algorithms, systems thinking) with a growing focus on data analysis and machine learning. I don’t just analyze data — I build the systems, dashboards, and applications that put data to work.
+I’m a Software Engineering student and a hybrid professional: I combine a solid software engineering foundation (Clean Code, Data Structures & Algorithms, systems thinking) with a growing focus on data analysis and machine learning. I don’t just analyze data — I build the systems, dashboards, and applications that put data to work.
 
 ---
 
