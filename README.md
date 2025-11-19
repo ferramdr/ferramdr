@@ -39,8 +39,8 @@ I’m a Software Engineering student and a hybrid professional: I combine a soli
   - Highlights: Completed EDA projects, produced reproducible notebooks, and built dashboards to present insights across datasets.
 
 - **RazoConnect**  
-  A collaboration/communication project (RazoConnect) where I contributed to backend services and data flows to improve messaging reliability and analytics. Focused on product logic and metrics that support growth and user retention.  
-  - Technologies: Node.js, PostgreSQL, REST APIs, React (integrations)  
+  A collaboration/communication project (RazoConnect) where I contributed to the entire development of the project, a full stack development tha challenged my skills and also made me leaarn a lot about database design and web development
+  - Technologies: Node.js, PostgreSQL, REST APIs, React, HTML, CSS 
   - Highlights: Implemented endpoints for message delivery tracking, built metrics pipelines for basic user analytics, and collaborated on product requirements.
 
 ---
