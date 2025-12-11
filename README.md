@@ -49,7 +49,6 @@ I’m a Software Engineering student and a hybrid professional: I combine a soli
 
 - Deepening practical skills in Data Analysis (exploratory data analysis, cleaning, visualization) and Machine Learning fundamentals while finishing my Software Engineering degree.
 - Working on end-to-end projects that combine data pipelines, model prototypes, and production-ready frontends/dashboards.
-- Hobby: High-Performance Computing & Hardware — I enjoy building custom PCs and exploring performance tuning, which informs my interest in efficient, scalable data systems.
 
 ---
 
