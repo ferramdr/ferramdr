@@ -2,21 +2,20 @@ Fernando Ramírez
 
 Software Engineering Student | Data Analysis & Applied Analytics
 
-Software Engineering student with a strong engineering foundation and a growing focus on data analysis and data-driven products. I build clean, testable software and turn data into clear, actionable insights.
+Software Engineering student with a strong engineering foundation and a growing focus on data analysis and data-driven products. I build clean, testable software and turn data into clear, actionable i[...]
 
 Skills
 
-Data & Backend
-Python • PostgreSQL • SQL
+A continuación verás mis habilidades representadas con badges (logos) para que sea más visual y fácil de escanear.
 
-Frontend
-React • HTML • CSS
+| Category | Skills |
+|---|---|
+| Data & Backend | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| Frontend & Design | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| Core Concepts | Data Structures • Algorithms • Operating Systems (Multithreading & Concurrency) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-5b21b6?style=flat-square&logo=antigravity&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-00ADEF?style=flat-square) |
 
-Core
-Data Structures & Algorithms • Operating Systems (Concurrency)
-
-Tools
-Git • GitHub • Google Cloud • Figma
+---
 
 Featured Projects
 
@@ -65,3 +64,4 @@ LinkedIn: https://www.linkedin.com/in/ferram-garcia
 Email: dferramm@gmail.com
 
 Open to internships and junior roles in data analysis, web development, and early-stage data science.
+```
