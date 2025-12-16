@@ -1,67 +1,76 @@
-Fernando Ramírez
+# 🔗 Fernando Ramírez
 
-Software Engineering Student | Data Analysis & Applied Analytics
-
-Software Engineering student with a strong engineering foundation and a growing focus on data analysis and data-driven products. I build clean, testable software and turn data into clear, actionable i[...]
-
-Skills
-
-A continuación verás mis habilidades representadas con badges (logos) para que sea más visual y fácil de escanear.
-
-| Category | Skills |
-|---|---|
-| Data & Backend | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| Frontend & Design | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| Core Concepts | Data Structures • Algorithms • Operating Systems (Multithreading & Concurrency) |
-| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-5b21b6?style=flat-square&logo=antigravity&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-00ADEF?style=flat-square) |
+*Software Engineering Student | Aspiring Data Analyst & Future Data Scientist*
 
 ---
 
-Featured Projects
+> Soy un estudiante de Ingeniería en Software y un profesional híbrido: combino una base sólida en ingeniería de software (Código limpio, Estructuras de Datos & Algoritmos, pensamiento de sistemas) con un enfoque creciente en análisis de datos y aprendizaje automático. No solo analizo datos — construyo los sistemas, dashboards y aplicaciones que ponen los datos a trabajar.
 
-FinReport AI
-Financial dashboard concept focused on clear KPIs and decision-making.
-React • Python — UI/UX, interactive charts, data clarity.
+---
 
-Task Key
-Parental control app based on task-driven access logic.
-Node.js • React • PostgreSQL — product logic, permissions, pitch.
+## Technical Skills
 
-RazoConnect
-Full-stack collaboration platform.
-Node.js • PostgreSQL • React — APIs, metrics, analytics foundations.
+| Category | Skills |
+|---|---|
+| **Data & Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Frontend & Design** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Core Concepts** | Data Structures • Algorithms • Operating Systems (Multithreading & Concurrency) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-Data Analysis (ANIEI)
-Hands-on course with real datasets.
-Python • pandas • SQL — EDA, cleaning, visualization, dashboards.
+---
 
-Personal Portfolio
-Full-stack portfolio showcasing projects and case studies.
-React • Node.js • PostgreSQL
+## Featured Projects
 
-Current Focus
+- **FinReport AI**  
+  Dashboard financiero centrado en KPIs claros y toma de decisiones. Implementé la UI/UX y visualizaciones interactivas para comunicar métricas clave.  
+  Tecnologías: React • Python • (visualización interactiva)
 
-Practical Data Analysis & ML fundamentals
+- **Task Key**  
+  App de control parental basada en lógica de acceso por tareas. Diseño del producto, permisos y lógica del backend.  
+  Tecnologías: Node.js • React • PostgreSQL
 
-End-to-end projects: data → insights → product
+- **RazoConnect**  
+  Plataforma colaborativa full-stack con enfoque en métricas y analítica. Construí APIs y estructuras para reporting y analítica.  
+  Tecnologías: Node.js • PostgreSQL • React
 
-How I Work
+- **Data Analysis (ANIEI)**  
+  Curso práctico con datasets reales: EDA, limpieza, visualización y dashboards.  
+  Tecnologías: Python • pandas • SQL
 
-Engineer mindset (clean code, systems thinking)
+- **Personal Portfolio**  
+  Portfolio full‑stack que muestra proyectos y estudios de caso.  
+  Tecnologías: React • Node.js • PostgreSQL
 
-Product-oriented data solutions
+---
 
-Fast learner, portfolio-driven
+## Current Focus
 
-AI-assisted development
+- Análisis de datos práctico y fundamentos de ML  
+- Proyectos end‑to‑end: datos → insights → producto  
+- Desarrollo impulsado por producto y buenas prácticas de ingeniería
 
-Contact
+---
 
-GitHub: https://github.com/ferramdr
+## How I Work
 
-LinkedIn: https://www.linkedin.com/in/ferram-garcia
+- Mentalidad de ingeniero: código limpio, tests y pensamiento de sistemas  
+- Orientado a producto: soluciones de datos que generan impacto  
+- Aprendiz rápido y trabajo portfolio‑driven  
+- Desarrollo asistido por IA cuando aporta velocidad y calidad
 
-Email: dferramm@gmail.com
+---
 
-Open to internships and junior roles in data analysis, web development, and early-stage data science.
-```
+## Contact
+
+- GitHub: [ferramdr](https://github.com/ferramdr)  
+- LinkedIn: [Ferram García](https://www.linkedin.com/in/ferram-garcia)  
+- Email: dferramm@gmail.com
+
+---
+
+Si quieres, puedo:
+- Ajustar colores y tamaño de encabezados para que resalte más en el tema claro/oscuro de GitHub.
+- Reestructurar en secciones con tarjetas (usar HTML simple) para un look más "bloqueado" como en la imagen que mostraste.
+- Generar una versión en inglés o bilingüe.
+
+Dime cuál de las opciones prefieres y lo actualizo aquí.
