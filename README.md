@@ -67,10 +67,3 @@
 - Email: dferramm@gmail.com
 
 ---
-
-Si quieres, puedo:
-- Ajustar colores y tamaño de encabezados para que resalte más en el tema claro/oscuro de GitHub.
-- Reestructurar en secciones con tarjetas (usar HTML simple) para un look más "bloqueado" como en la imagen que mostraste.
-- Generar una versión en inglés o bilingüe.
-
-Dime cuál de las opciones prefieres y lo actualizo aquí.
